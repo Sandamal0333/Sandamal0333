@@ -33,6 +33,7 @@
 
 ### 📫 Contact Me
 
+- 📱  Phone No: +94 76 756 5146
 - 📧 Email: [dimthuperis@gmail.com](mailto:dimthuperis@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/dimuthu-sandamal](https://linkedin.com/in/sandamal-peiris)
 - 🌍 Location: Waliweriya, Gampaha, Sri Lanka
