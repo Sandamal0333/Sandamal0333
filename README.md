@@ -4,7 +4,7 @@
 
 <p align="center">
   💻 Passionate about web development <br>
-  🛠️ Skilled in C# Java, Python, HTML, CSS, JS, PHP, SQL <br>
+  🛠️ Skilled in C#, Java, Python, HTML, CSS, JS, PHP, SQL <br>
   🎓 Completed HND in Software Engineering @ Esoft Metro Campus <br>
   🔭 Currently building my portfolio and seeking internship opportunities <br>
 </p>
@@ -27,7 +27,7 @@
 
 ### 📈 GitHub Stats
 
-![Peiris's GitHub Stats](https://github-readme-stats.vercel.app/api?Sandamal0333=Sandamal0333&show_icons=true&theme=tokyonight)
+![Peiris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandamal0333&show_icons=true&theme=tokyonight)
 
 ---
 
