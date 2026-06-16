@@ -1,44 +1,128 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Dimuthu Sandamal Peiris</h1>
-<h3 align="center">🚀 Aspiring Software Engineer from Sri Lanka 🇱🇰</h3>
 
-<p align="center">
-  💻 Passionate about web development <br>
-  🛠️ Skilled in C#, Java, Python, HTML, CSS, JS, PHP, SQL <br>
-  🎓 Completed HND in Software Engineering @ Esoft Metro Campus <br>
-  🔭 Currently building my portfolio and seeking internship opportunities <br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DIMUTHU+SANDAMAL+PEIRIS;Aspiring+Software+Engineer;Full+Stack+Developer;Laravel+Developer;Building+Projects+Every+Day" alt="Typing SVG" />
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=Sandamal0333&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+* 🎓 Completed **HND in Software Engineering** at Esoft Metro Campus
+* 💻 Passionate about Software Development and Problem Solving
+* 🌱 Currently learning **Laravel, ASP.NET, and Modern Web Technologies**
+* 🔭 Building portfolio projects and improving coding skills
+* 🎯 Looking for **Internship / Junior Software Engineer Opportunities**
+* 🇱🇰 Based in Sri Lanka
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cs,python,php,javascript,html,css,mysql" />
+</p>
+
+### Frameworks & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,dotnet,bootstrap,git,github,vscode" />
 </p>
 
 ---
 
-### 🚀 Tech Stack
+## 📂 Featured Projects
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🎓 Student Management System
 
----
+* Student Registration
+* CRUD Operations
+* Search Functionality
+* MySQL Database
 
-### 📈 GitHub Stats
+### 📦 Inventory Management System
 
-![Peiris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandamal0333&show_icons=true&theme=tokyonight)
+* Product Management
+* Stock Tracking
+* Reporting Features
+* Database Integration
 
----
+### 👨‍💼 Employee Management System
 
-### 📫 Contact Me
-
--  📱  Phone No: +94 76 756 5146
-- 📧 Email: [dimthuperis@gmail.com](mailto:dimthuperis@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/dimuthu-sandamal](https://linkedin.com/in/sandamal-peiris)
-- 🌍 Location: Waliweriya, Gampaha, Sri Lanka
+* Employee Records
+* Department Management
+* Authentication
+* Laravel Framework
 
 ---
 
-*“I’m not just learning to code — I’m building a future for my dreams.”*
+## 📊 GitHub Stats
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandamal0333&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandamal0333&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandamal0333&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandamal0333&theme=tokyo-night" />
+
+---
+
+
+## 🌐 Connect With Me
+
+<table>
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://linkedin.com/in/sandamal-peiris" target="_blank" style="text-decoration: none;">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="border: none; padding-left: 20px;">
+      <a href="mailto:dimthuperis@gmail.com" style="text-decoration: none;">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="border: none; padding-left: 20px;">
+      <a href="https://github.com/Sandamal0333" target="_blank" style="text-decoration: none;">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" style="border: none; padding-left: 20px;">
+      <a href="https://wa.me/94767565146" target="_blank" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/ynixt/whatsapp-electron/refs/heads/master/icon.ico" alt="WhatsApp" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+## 💡 Quote
+
+> "I’m not just learning to code — I’m building a future for my dreams."
+
+</div>
