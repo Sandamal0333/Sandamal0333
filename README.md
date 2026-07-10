@@ -86,7 +86,7 @@
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandamal0333&theme=tokyo-night" />
+<img src="https://streak-stats.demolab.com/?user=Sandamal0333&theme=tokyonight" />
 
 ---
 
